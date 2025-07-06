@@ -13,7 +13,7 @@ This project focuses on classifying news articles into four categories: **World*
 ├── test.csv                  # Test dataset
 ├── glove.6B.50d.txt          # GloVe pre-trained word vectors (50D)
 ├── glove.6B.100d.txt         # GloVe pre-trained word vectors (100D)
-└── assignment_script.py     # Main implementation
+└── text-classification.ipynb     # Main implementation
 ```
 
 ---
