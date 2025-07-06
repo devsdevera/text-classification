@@ -1,6 +1,5 @@
 
 # News Text Classification 
-**Author:** Deveremma (Student ID: 300602434)
 
 ## 📌 Overview  
 This project focuses on classifying news articles into four categories: **World**, **Sports**, **Business**, and **Sci/Tech**. It applies traditional machine learning models like **K-Nearest Neighbors** and **Naive Bayes**, as well as **deep learning CNNs** with and without pre-trained GloVe embeddings. The dataset contains news headlines (`Title`), article content (`Description`), and corresponding class labels.
